@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.wordWrapColumn": 140,
+    "window.zoomLevel": 0,
+     "editor.fontSize": 14,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+
+    "files.autoSave": "afterDelay",
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.colorTheme": "Monokai",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.fontSize" : 14,
+    "editor.wordWrap": "on",
+    "terminal.external.osxExec": "iTerm.app"
+    
+}
