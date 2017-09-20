@@ -3,7 +3,7 @@
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1,
   "editor.fontSize": 14,
-  "editor.lineHeight": 27,
+  "editor.lineHeight": 30,
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "vsicons.projectDetection.autoReload": true,
@@ -13,5 +13,8 @@
   "editor.wordWrapColumn": 140,
   "window.zoomLevel": 0,
   "vsicons.dontShowNewVersionMessage": true,
-  "terminal.integrated.fontSize": 14
+  "terminal.integrated.fontSize": 14,
+  "workbench.colorTheme": "Default Dark+",
+  "php.validate.executablePath": "/usr/bin/php",
+  "php.validate.enable": true
 }

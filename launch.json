@@ -1,0 +1,16 @@
+{
+    //Xdebug with php 7.1 setup
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Listen for XDebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9000,
+            // "log" : true,
+            "serverSourceRoot": "/home/vagrant/Code/blackhole-todo",
+            "localSourceRoot": "/home/kmaxat/PhpstormProjects/blackhole-todo"
+        }
+    ]
+}
