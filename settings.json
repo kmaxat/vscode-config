@@ -1,10 +1,9 @@
-// Place your settings in this file to overwrite the default settings
 {
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1,
   "editor.fontSize": 14,
-  "editor.lineHeight": 30,
-  "editor.fontFamily": "Fira Code",
+  "editor.lineHeight": 20,
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "vsicons.projectDetection.autoReload": true,
   "editor.wordWrap": "on",
