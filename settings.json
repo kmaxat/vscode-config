@@ -2,19 +2,28 @@
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1,
   "editor.fontSize": 14,
-  "editor.lineHeight": 20,
+  "editor.lineHeight": 25,
   "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
   "vsicons.projectDetection.autoReload": true,
   "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,  
+  "files.hotExit": "off",
   "workbench.iconTheme": "vscode-icons",
   "window.zoomLevel": 0,
   "vsicons.dontShowNewVersionMessage": true,
   "terminal.integrated.fontSize": 14,
   "workbench.colorTheme": "Default Dark+",
-  "php.validate.executablePath": "/usr/bin/php",
   "php.validate.enable": true,
-  "terminal.external.osxExec": "iTerm.app",
-  "php.executablePath": "/usr/local/bin/php",
+  "php.validate.executablePath": "/usr/bin/php",
   "php.validate.run": "onSave",
-  "editor.rulers": [80]
+  "php-docblocker.gap": false,
+  "phpcs.enable": true,
+  "phpcs.standard": "PSR2",
+  "editor.tabCompletion": true,
+  "eslint.run": "onSave",
+  "editor.rulers": [
+    80
+  ],
+  "phpmd.rules": "/home/kmaxat/Development/blackhole/myrule_set.xml",
+  "workbench.editor.enablePreview": false
 }
