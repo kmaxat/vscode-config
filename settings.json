@@ -3,7 +3,7 @@
   "files.autoSaveDelay": 1,
   "editor.fontSize": 14,
   "editor.lineHeight": 25,
-  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "DejaVu Sans Mono, Monaco, 'Courier New', monospace",
   "vsicons.projectDetection.autoReload": true,
   "editor.wordWrap": "on",
   "editor.wordWrapColumn": 80,  
@@ -25,5 +25,6 @@
     80
   ],
   "phpmd.rules": "/home/kmaxat/Development/blackhole/myrule_set.xml",
-  "workbench.editor.enablePreview": false
+  "workbench.editor.enablePreview": false,
+  "editor.renderWhitespace": "boundary"
 }
